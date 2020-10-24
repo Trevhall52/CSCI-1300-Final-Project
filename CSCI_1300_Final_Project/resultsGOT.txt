@@ -1,0 +1,24 @@
+Trevor   Cersei Lannister    55
+Trevor   Stannis Baratheon   20
+Trevor   Stannis Baratheon   22
+Trevor   Euron Greyjoy       35
+Trevor   Daenerys Targaryen  29
+Trevor   Daenerys Targaryen  34
+Trevor   Daenerys Targaryen  11
+Trevor   Cersei Lannister    66
+Trevor   Cersei Lannister    81
+Trevor   Daenerys Targaryen  49
+Trevor   Cersei Lannister    57
+Trevor   Daenerys Targaryen  43
+Emma     Cersei Lannister    80
+Emma     Cersei Lannister    95
+Trevor   Trevor              27
+Emma     Emma                29
+Trevor   Cersei Lannister    93
+emmaline Daenerys Targaryen  29
+Trevor   Cersei Lannister    77
+Trevor   Cersei Lannister    77
+Trevor   Trevor              20
+Trevor   Daenerys Targaryen  33
+Trevor   Daenerys Targaryen  42
+Trevor   Cersei Lannister    97

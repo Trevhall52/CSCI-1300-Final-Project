@@ -1,0 +1,26 @@
+A,Castle Black,15,15,3,0
+B,Eastwatch by the Sea,15,15,3,0
+C,Deepwood Motte,15,15,3,0
+D,Winterfell,75,75,15,0
+E,White Harbor,30,30,6,0
+F,The Twins,15,15,3,0
+G,The Eyrie,30,30,6,0
+H,Pyke,30,30,6,0
+I,Riverrun,30,30,6,0
+J,Dragonstone,100,100,20,0
+K,Casterly Rock,125,125,25,0
+L,King's Landing,175,175,35,1
+M,Storm's End,15,15,3,0
+N,Highgarden,150,150,30,0
+O,Old Town,100,100,20,0
+P,Sunspear,150,150,30,0
+Q,Horn Hill,15,15,3,0
+R,Myr,50,50,10,0
+S,Volantis,50,50,10,0
+T,Meereen,50,50,10,0
+U,Yoonkai,50,50,5,0
+V,Astapor,50,50,5,0
+W,Vaes Dothrak,15,15,3,0
+X,Qohor,50,50,10,0
+Y,Pentos,50,50,10,0
+Z,Braavos,50,50,10,0

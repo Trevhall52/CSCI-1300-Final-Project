@@ -1,0 +1,6 @@
+Cersei Lannister,8000,300,300,Jaime Lannister,The Mountain,NULL,NULL,15,6,no
+Stannis Baratheon,1000,100,200,Melisandre,Davos Seaworth,NULL,NULL,13,8,no
+Jon Snow,100,50,20,Jon Snow,Samwell Tarly,NULL,NULL,3,4,no
+Sansa Stark,1000,100,200,Brienne of Tarth,NULL,NULL,NULL,6,4,no
+Euron Greyjoy,1000,50,100,NULL,NULL,NULL,NULL,12,1,yes
+Daenerys Targaryen,100,1000,50,NULL,NULL,NULL,NULL,17,15,no
